@@ -1,0 +1,14 @@
+.main-menu {
+    display: inline-flex;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 27px;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 100px;
+    margin-top: 12px;
+}

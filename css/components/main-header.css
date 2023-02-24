@@ -1,6 +1,10 @@
 .main-header {
     display: flex;
     justify-content: space-between;
-    background-color: none;
+    background-color: #232323;
     padding: 10px 20px;
+}
+
+.main-header .logo {
+    width: 152px;
 }
