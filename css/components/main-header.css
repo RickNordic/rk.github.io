@@ -1,10 +1,11 @@
 .main-header {
     display: flex;
     justify-content: space-between;
-    background-color: #232323;
-    padding: 10px 20px;
+    background-color: none;
 }
 
 .main-header .logo {
-    width: 152px;
+    height: 35px;
+    padding-left: 195px;
+    padding-top: 55px;
 }
