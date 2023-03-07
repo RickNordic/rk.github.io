@@ -6,3 +6,31 @@
     height: 940px;
 }
 
+.container {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 190px;
+    left: 865px;
+    top: 880px;
+}
+
+.square {
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+    background-color: transparent;
+    border: 2px solid #921927;
+    margin-right: 20px;
+  } 
+
+  .square:hover {
+    box-sizing: border-box;
+    width: 15px;
+    height: 15px;
+    background-color: #921927;
+    border: 2px solid #921927;
+    margin-right: 20px;
+  }
