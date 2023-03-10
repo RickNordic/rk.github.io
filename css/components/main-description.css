@@ -1,14 +1,14 @@
-.main-title {
+.main-description {
     display: flex;
     box-sizing: border-box;
     justify-content: center;
     color: #232323;
-    font-family: 'Righteous', cursive;
+    font-family: 'Inconsolata', monospace;
     font-style: normal;
     font-weight: 400;
-    font-size: 50px;
-    line-height: 62px;
+    font-size: 20px;
+    line-height: 21px;
     text-align: center;
     text-decoration: none;
-    padding-top: 80px;
+    padding-top: 18px;
 }
